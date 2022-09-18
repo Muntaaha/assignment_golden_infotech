@@ -1,0 +1,40 @@
+.tm_area{
+    margin-top: 160px;
+    @media (max-width: 576px) {
+        margin-top: 320px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        margin-top: 320px;
+    }
+}
+.tm_col{
+    margin-top: 50px;
+    // background-color: brown;
+    // display: flex;
+    // align-items: center;
+    gap: 20rem;
+}
+.tm_col h1{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #333333;
+
+}
+.tm_col p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #333333;
+}
+.tm_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }

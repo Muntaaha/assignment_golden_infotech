@@ -1,0 +1,82 @@
+.header_area{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 27px rgba(0, 0, 0, 0.15);
+}
+
+.logo_area{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-image{
+    height: 43px;
+    width: 38px;
+
+}
+
+.logo-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #2CAEE2;
+}
+.nav_area{
+    display: flex;
+    align-items: center;
+    
+}
+
+.nav_area ul li{
+    display: inline-flex;
+    padding-right: 40px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: right;
+    color: #333333;
+
+
+}
+
+.lang_area {
+    position: relative;
+    top: -8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.lang_area .text{
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    // line-height: 16px;
+    color: #333333;
+
+}
+
+.lang_area .item{
+    font-size: 22px;
+
+}
+
+.button_area button{
+    display: flex;
+    align-items: center;
+    background: #2CAEE2;
+    border: 0px;
+    border-radius: 39px;
+    color: #FFFFFF;
+    padding: 7px 37px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}

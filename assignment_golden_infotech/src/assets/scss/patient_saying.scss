@@ -1,0 +1,122 @@
+.patient_saying_area{
+    margin-top: 160px;
+}
+
+.patient_saying_row{
+    border: 1px solid #D7D7D7;
+    margin: 60px 20px;
+    border-radius: 10px 10px 10px 10px;
+    @media (max-width: 576px) {
+        border: none;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        border: none;
+    }
+}
+
+.image8{
+    position: relative;
+    left: -12px;
+    border-radius: 10px 0px 0px 10px;
+}
+.patient_saying_col_2{
+    padding: 40px 100px 0px 90px;
+
+    @media (max-width: 576px) {
+        padding: 60px 40px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        padding: 60px 40px;
+    }
+}
+.quote_text, .student_study{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    color: #333333;
+}
+.student_name{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #333333;    
+}
+
+.quote_1{
+    position: absolute;
+    top: 6333px;
+    @media (max-width: 576px) {
+        top: 10690px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 10690px;
+    }
+}
+
+.quote_2{
+    position: absolute;
+    top: 6545px;
+    right: 210px;
+    @media (max-width: 576px) {
+        top: 10900px;
+        right: 140px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 10900px;
+        right: 140px;
+    }
+}
+
+.image10{
+    position: absolute;
+    top: 6633px;
+    right: 160px;
+    @media (max-width: 576px) {
+        top: 10980px;
+        right: 140px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 10980px;
+        right: 140px;
+    }
+}
+.image9{
+    position: absolute;
+    top: 6633px;
+    right: 275px;
+    @media (max-width: 576px) {
+        top: 10980px;
+        right: 255px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 10980px;
+        right: 255px;
+    }
+}
+.image7{
+    position: absolute;
+    top: 6633px;
+    right: 392px;
+    @media (max-width: 576px) {
+        top: 10980px;
+        right: 372px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 10980px;
+        right: 372px;
+    }
+}
+
+.arrows{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-right: 210px;
+}
+.arrows img{
+    padding: 5px;
+}

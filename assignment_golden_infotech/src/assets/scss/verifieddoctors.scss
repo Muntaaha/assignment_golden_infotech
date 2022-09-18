@@ -1,0 +1,25 @@
+.verifieddoctors_area{
+    margin-top: 250px;
+    @media (max-width: 576px) {
+        margin-top: 600px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        margin-top: 600px;
+    }
+}
+.verifieddoctors_row{
+    margin-top: 50px;
+}
+.verifieddoctors_row p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #333333;
+}
+
+.verifieddoctors_row span{
+    color: #2CAEE2;
+    padding-right: 10px;
+}

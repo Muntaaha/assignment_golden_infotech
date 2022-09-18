@@ -1,0 +1,143 @@
+.footer_area{
+    border-top: 1px solid #D7D7D7;
+    padding-top: 50px;
+    padding: 20px;
+}
+
+.logo_area{
+    // display: inline-block;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    // padding: 10px;
+}
+
+.logo-image{
+    height: 43px;
+    width: 38px;
+
+}
+
+.logo-text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #2CAEE2;
+}
+.footer_row_2{
+    margin-top: 30px;
+}
+
+.footer_row_2 span{
+    color: #2CAEE2;
+    padding-right: 10px;
+}
+.footer_row_2 p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #333333;
+}
+.details{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px!important;
+    line-height: 24px;
+    color: #333333;
+    
+}
+.footer_row_3{
+    display: flex;
+    align-items: center;
+}
+.footer_row_3 p{
+    align-items: center;
+    display: contents;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 28px;
+    color: #333333;
+
+}
+
+.footer_contact_row span{
+    display: flex;
+    align-items: center;
+}
+
+.footer_contact_row {
+    display: flex;
+    gap: 10px;
+}
+
+.social_icons_row{
+    display: inline-block;
+    padding: 0px 5px;
+}
+
+.footer_row_3 .title_heading{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 46px;
+    color: #333333;
+}
+
+.download_app {
+    display: flex;
+    align-items: center;
+}
+
+.download_app h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+    text-align: right;
+
+}
+
+.apple_footer{
+    padding-left: 20px;
+    @media (max-width: 576px) {
+        padding-left: 0px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        padding-left: 0px;
+    }
+}
+
+.copy_rights{
+    padding-top: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 24px;
+    color: #2CAEE2;
+    text-align: center;
+    
+}
+
+.Vector_9{
+    position: absolute;
+    right: 0px;
+    top: 7593px;
+    z-index: -2;
+    @media (max-width: 576px) {
+        top: 12000px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 12897px;
+    }
+}

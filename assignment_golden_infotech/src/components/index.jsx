@@ -1,0 +1,15 @@
+export {  default as Header } from "./Header";
+export {  default as Nav } from "./Nav";
+export {  default as SearchForService } from "./SearchForService";
+export {  default as About } from "./About";
+export {  default as VideoConsultation } from "./VideoConsultation";
+export {  default as TM } from "./TM";
+export {  default as ThreeSteps } from "./ThreeSteps";
+export {  default as MedicineCenter } from "./MedicineCenter";
+export {  default as Services } from "./Services";
+export {  default as VerifiedDoctors } from "./VerifiedDoctors";
+export {  default as AskedQuestions } from "./AskedQuestions";
+export {  default as AreYouAQualidiedAndExpertDoctor } from "./AreYouAQualidiedAndExpertDoctor";
+export {  default as PatientSayingABoutUs } from "./PatientSayingABoutUs";
+export {  default as News_Blogs } from "./News_Blogs";
+export {  default as Footer } from "./Footer";

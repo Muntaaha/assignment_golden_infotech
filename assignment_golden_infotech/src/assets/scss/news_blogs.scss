@@ -1,0 +1,70 @@
+.news_blogs_area{
+    margin-top: 160px;
+}
+.blog_image{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+.date{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #2CAEE2;
+
+}
+
+.title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 20px;
+    color: #333333;
+}
+
+.description{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.doctor_name{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #2CAEE2;
+
+}
+
+.news_blogs_area button{
+    width: 122px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+    background: #2CAEE2;
+    border-radius: 72px;
+    border: 0px;
+}
+
+.news_arrows{
+    margin-top: 55px;
+    margin-bottom: 78px;
+    display: flex;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+.news_arrows img{
+    padding: 5px;
+}

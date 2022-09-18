@@ -1,0 +1,114 @@
+.areyouadoctor_area{
+    margin-top: 60px;
+}
+
+.areyouadoctor_area_area{
+    margin-top: 40px;
+}
+
+.areyouadoctor_area_col_1{
+    padding: 60px  70px 0px 120px;
+    @media (max-width: 576px) {
+        padding: 60px  10px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        padding: 60px  10px;
+    }
+}
+.areyouadoctor_area_col_1 h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #333333;
+}
+
+.areyouadoctor_area_col_1 p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13.5px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.areyouadoctor_area_col_1 button{
+    position: absolute;
+    width: 180px;
+    height: 42px;
+    background: #2CAEE2;
+    border: 0;
+    border-radius: 72px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+.shadow6{
+    position: absolute;
+    right: 0px;
+    top: 5030px;
+    z-index: -2;
+    @media (max-width: 576px) {
+        right: 0px;
+        top: 8530px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        right: 0px;
+        top: 8530px;
+    }
+}
+
+.Ellipse_1{
+    width: 398px;
+    height: 398px;
+    position: absolute;
+    right: 130px;
+    top: 5000px;
+    z-index: -1;
+    @media (max-width: 576px) {
+        right: 80px;
+        top: 8500px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        right: 80px;
+        top: 8500px;
+    }
+}
+.Ellipse_2{
+    position: absolute;
+    right: 50px;
+    top: 5283px;
+    z-index: -1;
+    @media (max-width: 576px) {
+        right: 0px;
+        top: 8783px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        right: 0px;
+        top: 8783px;
+    }
+}
+.image5{
+    border-radius: 50%;
+    border: 0px;
+    width: 392.95px;
+    height: 392.95px;
+    position: absolute;
+    right: 180px;
+    top: 4980px;
+    z-index: 1;
+    @media (max-width: 576px) {
+        right: 130px;
+        top: 8480px;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        right: 130px;
+        top: 8480px;
+    }
+}

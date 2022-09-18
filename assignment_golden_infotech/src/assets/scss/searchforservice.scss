@@ -1,0 +1,104 @@
+.shadow-image1{
+    position: relative;
+    left: -90px;
+    z-index: -1;
+}
+
+.service_col_1 .text{
+    position: relative;
+    top: -230px;
+    left: 160px;
+    @media (max-width: 576px) {
+        top: -300px;
+        left: 10px;
+      }
+    @media (min-width: 576px) and (max-width: 767px) {
+    top: -300px;
+    left: 10px;
+    }
+}
+.service_col_1 h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 48px;
+    color: #333333;
+}
+.service_col_1 p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #333333;
+}
+.service_col_1 button{
+    display: flex;
+    align-items: center;
+    background: #2CAEE2;
+    border: 0px;
+    border-radius: 62px;
+    color: #FFFFFF;
+    padding: 7px 55px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    position: relative;
+    top: -210px;
+    left: 160px;
+    @media (max-width: 576px) {
+        top: -280px;
+        left: 10px;
+      }
+      @media (min-width: 576px) and (max-width: 767px) {
+        left: 10px;
+        top: -280px;
+    }
+}
+
+.store_buttons{
+    position: relative;
+    top: -180px;
+    left: 160px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    @media (max-width: 576px) {
+        left: 10px;
+        top: -250px;
+      }
+      @media (min-width: 576px) and (max-width: 767px) {
+        left: 10px;
+        top: -250px;
+    }
+}
+
+
+.shadow-image2{
+    position: relative;
+    z-index: -1;
+    @media (max-width: 576px) {
+        top: -200px;
+      }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: -200px;
+    }
+}
+
+.doctor_image{
+    position: absolute;
+    top: 130px;
+    right: 80px;
+    @media (max-width: 576px) {
+        top: 550px;
+        align-items: center;
+    }
+    @media (min-width: 576px) and (max-width: 767px) {
+        top: 550px;
+        align-items: center;
+    }
+}
