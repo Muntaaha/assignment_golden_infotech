@@ -5,7 +5,7 @@ import './App.scss';
 import { Header, SearchForService, About, VideoConsultation, 
   TM, ThreeSteps, MedicineCenter, Services, VerifiedDoctors, 
   AreYouAQualidiedAndExpertDoctor, AskedQuestions, PatientSayingABoutUs,
-  News_Blogs, Footer } from './components/index';
+  News_Blogs, Footer, ForBackend } from './components/index';
 
 function App() {
   return (
@@ -15,6 +15,7 @@ function App() {
         <About />
         <VideoConsultation />
         <TM />
+        <ForBackend />
         <ThreeSteps />
         <MedicineCenter />
         <Services />

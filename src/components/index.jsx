@@ -4,6 +4,7 @@ export {  default as SearchForService } from "./SearchForService";
 export {  default as About } from "./About";
 export {  default as VideoConsultation } from "./VideoConsultation";
 export {  default as TM } from "./TM";
+export {  default as ForBackend } from "./ForBackend";
 export {  default as ThreeSteps } from "./ThreeSteps";
 export {  default as MedicineCenter } from "./MedicineCenter";
 export {  default as Services } from "./Services";
